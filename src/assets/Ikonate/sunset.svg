@@ -1,0 +1,11 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="sunset">
+<path id="Combined Shape" fill-rule="evenodd" clip-rule="evenodd" d="M9.35418 17C8.52375 16.2671 8 15.1947 8 14C8 11.7909 9.79086 10 12 10C14.2091 10 16 11.7909 16 14C16 15.1947 15.4762 16.2671 14.6458 17H9.35418V17Z" stroke="#2329D6"/>
+<path id="Line" d="M12 7V5" stroke="#2329D6" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Line_2" d="M22 17H2" stroke="#2329D6" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Line_3" d="M5 14H2" stroke="#2329D6" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Line_4" d="M22 14H19" stroke="#2329D6" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Line_5" d="M16.9497 9.05026L19.0711 6.92894" stroke="#2329D6" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Line_6" d="M4.92893 6.92893L7.05025 9.05025" stroke="#2329D6" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

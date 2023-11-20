@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="cut">
+<path id="Path 2" d="M3 18L15 9" stroke="#2329D6" stroke-linecap="round"/>
+<path id="Path 2_2" d="M15 15L3 6" stroke="#2329D6" stroke-linecap="round"/>
+<path id="Oval" fill-rule="evenodd" clip-rule="evenodd" d="M18 10C19.6569 10 21 8.65685 21 7C21 5.34315 19.6569 4 18 4C16.3431 4 15 5.34315 15 7C15 8.65685 16.3431 10 18 10Z" stroke="#2329D6"/>
+<path id="Oval_2" fill-rule="evenodd" clip-rule="evenodd" d="M18 20C19.6569 20 21 18.6569 21 17C21 15.3431 19.6569 14 18 14C16.3431 14 15 15.3431 15 17C15 18.6569 16.3431 20 18 20Z" stroke="#2329D6"/>
+</g>
+</svg>

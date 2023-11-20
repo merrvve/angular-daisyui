@@ -1,0 +1,29 @@
+<div class="min-h-screen bg-base-200" id="how">
+  <h1 class="text-5xl font-bold text-center">Nasıl Çalışır?</h1>
+
+  <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
+    <ng-container *ngFor="let step of steps; index as i">
+      <div class="m-4 p-4">
+
+        <div class="card glass w-90 shadow-xl">
+
+          <div class="card-body">
+            <span class="indicator-item indicator-start badge badge-secondary p-3"><strong>{{i+1}}</strong></span>
+
+            <div class="flex justify-center items-center">
+              <img src="{{step.icon}}" class="w-20" alt="{{step.title}}">
+            </div>
+
+            <h2 class="card-title">{{step.title}}</h2>
+            <p>If a dog chews shoes whose shoes does he choose?</p>
+          </div>
+        </div>
+      </div>
+    </ng-container>
+
+
+
+
+  </div>
+
+</div>
